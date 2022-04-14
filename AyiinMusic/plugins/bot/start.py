@@ -100,9 +100,9 @@ async def start_comm(client, message: Message, _):
                 sender_name = message.from_user.first_name
                 return await app.send_message(
                     config.LOG_GROUP_ID,
-                    f"{message.from_user.mention} Bᴀʀᴜ Sᴀᴊᴀ Mᴇᴍᴜʟᴀɪ Bᴏᴛ Uɴᴛᴜᴋ Mᴇᴍᴇʀɪᴋᴀ <code>SUDOLIST</code>\n\n"
-                    f"**Usᴇʀ ɪᴅ :** {sender_id}\n"
-                    f"**Usᴇʀ Nᴀᴍᴇ :** {sender_name}"
+                    f"{message.from_user.mention} Baru saja memulai bot untuk memeriksa <code>SUDOLIST</code>\n\n"
+                    f"**User Id :** {sender_id}\n"
+                    f"**User Name :** {sender_name}"
                 )
             return
         if name[0:3] == "lyr":
@@ -136,14 +136,14 @@ async def start_comm(client, message: Message, _):
             searched_text = f"""
 🔍__**Video Track Information**__
 
-❇️**Title:** {title}
+❇️** Title:** {title}
 
-⏳**Duration:** {duration} Mins
-👀**Views:** `{views}`
-⏰**Published Time:** {published}
-🎥**Channel Name:** {channel}
-📎**Channel Link:** [Visit From Here]({channellink})
-🔗**Video Link:** [Link]({link})
+⏳** Duration:** {duration} Mins
+👀** Views:** `{views}`
+⏰** Published Time:** {published}
+🎥** Channel Name:** {channel}
+📎** Channel Link:** [Visit From Here]({channellink})
+🔗** Video Link:** [Link]({link})
 
 ⚡️ __Searched Powered By {config.MUSIC_BOT_NAME}__"""
             key = InlineKeyboardMarkup(
@@ -171,9 +171,9 @@ async def start_comm(client, message: Message, _):
                 sender_name = message.from_user.first_name
                 return await app.send_message(
                     config.LOG_GROUP_ID,
-                    f"{message.from_user.mention} Bᴀʀᴜ Sᴀᴊᴀ Mᴇᴍᴜʟᴀɪ Bᴏᴛ Uɴᴛᴜᴋ Mᴇᴍᴇʀɪᴋᴀ <code>VIDEO INFORMATION</code>\n\n"
-                    f"**Usᴇʀ ɪᴅ :** {sender_id}\n"
-                    f"**Usᴇʀ Nᴀᴍᴇ :** {sender_name}"
+                    f"{message.from_user.mention} Baru saja memulai bot untuk memeriksa <code>VIDEO INFORMATION</code>\n\n"
+                    f"**User Id :** {sender_id}\n"
+                    f"**User Name :** {sender_name}"
                 )
     else:
         try:
@@ -206,9 +206,9 @@ async def start_comm(client, message: Message, _):
             sender_name = message.from_user.first_name
             return await app.send_message(
                 config.LOG_GROUP_ID,
-                f"{message.from_user.mention} **Bᴀʀᴜ Sᴀᴊᴀ Mᴇᴍᴜʟᴀɪ Bᴏᴛ.**\n\n"
-                f"**Usᴇʀ ɪᴅ :** {sender_id}\n"
-                f"**Usᴇʀ Nᴀᴍᴇ :** {sender_name}"
+                f"{message.from_user.mention} **Baru saja memulai bot.**\n\n"
+                f"**User Id :** {sender_id}\n"
+                f"**User Name :** {sender_name}"
             )
 
 
