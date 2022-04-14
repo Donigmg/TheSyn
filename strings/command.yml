@@ -16,7 +16,7 @@ START_COMMAND : ["start", "स्टार्ट"]
 HELP_COMMAND : ["mhelp", "हेल्प"]
 SETTINGS_COMMAND : ["settings", "setting", "सेटिंग्स", "सेटिंग"]
 RELOAD_COMMAND : ["admincache", "reload", "व्यवस्थापक कैश", "पुनः लोड करें"]
-STATS_COMMAND : ["mstats", "आँकड़े"]
+STATS_COMMAND : ["stats", "आँकड़े"]
 LANGUAGE_COMMAND : ["lang", "language"]
 
 # Play Commands
