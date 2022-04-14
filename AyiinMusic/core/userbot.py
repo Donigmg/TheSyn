@@ -57,9 +57,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("MovieSagapung")
-                await self.one.join_chat("AyiinSupport")
-                await self.one.join_chat("AyiinXdSupport")
+                await self.one.join_chat("synxsupport")
+                await self.one.join_chat("synxupdate")
             except:
                 pass
             assistants.append(1)
@@ -88,9 +87,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("MovieSagapung")
-                await self.two.join_chat("AyiinSupport")
-                await self.two.join_chat("AyiinXdSupport")
+                await self.two.join_chat("synxsupport")
+                await self.two.join_chat("synxupdate")
             except:
                 pass
             assistants.append(2)
@@ -119,9 +117,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("MovieSagapung")
-                await self.three.join_chat("AyiinSupport")
-                await self.three.join_chat("AyiinXdSupport")
+                await self.three.join_chat("synxsupport")
+                await self.three.join_chat("synxupdate")
             except:
                 pass
             assistants.append(3)
@@ -150,9 +147,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("MovieSagapung")
-                await self.four.join_chat("AyiinSupport")
-                await self.four.join_chat("AyiinXdSupport")
+                await self.four.join_chat("synxsupport")
+                await self.four.join_chat("synxupdate")
             except:
                 pass
             assistants.append(4)
@@ -181,9 +177,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("MovieSagapung")
-                await self.five.join_chat("AyiinSupport")
-                await self.five.join_chat("AyiinXdSupport")
+                await self.five.join_chat("synxsupport")
+                await self.five.join_chat("synxupdate")
             except:
                 pass
             assistants.append(5)
