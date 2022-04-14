@@ -26,7 +26,7 @@ def ayiin(func):
                         f"**Hay kak {ppk}, Silahkan join dulu biar bisa pake bot ini kak**",
                         disable_web_page_preview=True,
                         reply_markup=InlineKeyboardMarkup(
-                            [[InlineKeyboardButton("⍟ ᴊᴏɪɴ ᴛᴏᴅ ⍟", url=link)]]
+                            [[InlineKeyboardButton("• Join Grup Bot •", url=link)]]
                         ),
                     )
                     await message.stop_propagation()
