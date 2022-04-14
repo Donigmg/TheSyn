@@ -215,7 +215,7 @@ song_11 : "Uploading Started\n\nUploading speed could be slow. Please hold on.."
 queue_1 : "Please Wait..Fetching Queue.."
 queue_2 : "No tracks inside Queue."
 queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4 : "⏳ Added to Queue at **#{0}\n\n💡 Title:** {1}\n**⏱ Duration:** {2}\n👤** Added By:** {3}"
+queue_4 : "⏳ Added to Queue at **»{0}\n\n💡 Title:** {1}\n**⏱ Duration:** {2}\n👤** Added By:** {3}"
 
 # All Streaming Lines
 stream_1 : "📡 **Started Streaming** \n\n🔦** Information: **[Here]({1})\n🎧** Requested By:** {0}"
