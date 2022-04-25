@@ -69,7 +69,7 @@
       },
       "MUST_JOIN": {
         "description": "Isi dengan username channel atau group tanpa @",
-        "value": "AyiinXdSupport"
+        "value": ""
       },
       "UPSTREAM_REPO": {
         "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
