@@ -70,6 +70,7 @@
       "MUST_JOIN": {
         "description": "Isi dengan username channel atau group tanpa @",
         "value": ""
+        "required": false
       },
       "UPSTREAM_REPO": {
         "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
