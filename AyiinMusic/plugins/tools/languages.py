@@ -33,14 +33,6 @@ def lanuages_keyboard(_):
     )
     keyboard.row(
         InlineKeyboardButton(
-            text="Sunda", callback_data=f"languages:si",
-        ),
-        InlineKeyboardButton(
-            text="Jawa", callback_data=f"languages:hi",
-        ),
-    )
-    keyboard.row(
-        InlineKeyboardButton(
             text=_["BACK_BUTTON"], callback_data=f"settingsback_helper",
         ),
         InlineKeyboardButton(
