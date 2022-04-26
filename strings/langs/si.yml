@@ -218,7 +218,7 @@ queue_3 : "<u>**Lagu Antrian:</u>** [Parios Antrian Lain Ti dieu]({0})"
 queue_4 : "💡 Ditambahkeun kana Antrian di **#{0}\n\n🏷 Judul:** {1}\n**⏱ Durasi:** {2}\n👤** Ditambahkeun Ku:** {3 }"
 
 # All Streaming Lines
-stream_1 : "🏷 **Judul:** {0}\n🕰** Durasi**: {1}\n🎧** Dipénta Ku:** {2} "
+stream_1 : "🏷 **Judul:** {0}\n⏱️** Durasi**: {1}\n🎧** Dipénta Ku:** {2} "
 stream_2 : "📡 **Mimiti Streaming via URL ** 💡\n\n🎧** Dipénta Ku:** {0}"
 stream_3 : "📡 **Mimiti Streaming** \n\n**🏷 Judul:** {0}\n⏱️** Durasi**: {1}\n🎧** Dipénta Ku:** {2} "
 stream_4 : "📡 **Mimiti Streaming** \n\n**🏷 Judul:** [{0}]({1})\n⏱️** Durasi**: {2}\n🎧** Dipénta Ku:** {3}"
