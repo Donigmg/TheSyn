@@ -33,7 +33,6 @@ from AyiinMusic.utils.inline.play import (livestream_markup,
 from AyiinMusic.utils.inline.playlist import botplaylist_markup
 from AyiinMusic.utils.logger import play_logs
 from AyiinMusic.utils.stream.stream import stream
-from AyiinMusic.utils.ayiinmusic import ayiin
 
 # Command
 PLAY_COMMAND = get_command("PLAY_COMMAND")
@@ -45,7 +44,6 @@ PLAY_COMMAND = get_command("PLAY_COMMAND")
     & ~filters.edited
     & ~BANNED_USERS
 )
-@ayiin
 @PlayWrapper
 async def play_commnd(
     client,
