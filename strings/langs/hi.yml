@@ -215,10 +215,10 @@ song_11 : "Ngunggah Diwiwiti\n\nKacepetan upload bisa dadi alon. Tulung terus.."
 queue_1 : "Enteni..Njupuk Antrian.."
 queue_2 : "Ora ana trek ing Queue."
 queue_3 : "<u>**Trek Antri:</u>** [Priksa Trek Antri Liyane Saka Kene]({0})"
-queue_4 : "⏳ Ditambahake menyang Antrian ing **#{0}\n\n💡 Judul:** {1}\n**⏱Durasi:** {2}\n👤** Ditambahake dening:** {3 }"
+queue_4 : "💡 Ditambahake menyang Antrian ing **#{0}\n\n💡 Judul:** {1}\n**⏱ Durasi:** {2}\n👤** Ditambahake dening:** {3}"
 
 # Kabeh Garis Streaming
-stream_1 : "📡 **Miwiti Streaming**\n\n🔦** Informasi: **[Ing kene]({1})\n🎧** Dijaluk Dening:** {0}"
+stream_1 : "🏷 **Judul:** {0}\n⏱️** Durasi**: {1}\n🎧** Dijaluk Dening:** {2} "
 stream_2 : "📡 **Miwiti Streaming liwat URL ** 💡\n\n🎧** Dijaluk Dening:** {0}"
 stream_3 : "📡 **Miwiti Streaming**\n\n**🏷 Judul:** {0}\n⏱️** Durasi**: {1}\n🎧** Dijaluk Dening:** {2} "
 stream_4 : "📡 **Miwiti Streaming**\n\n**🏷 Judul:** [{0}]({1})\n⏱️** Durasi**: {2}\n🎧** Dijaluk Dening:** {3}"
