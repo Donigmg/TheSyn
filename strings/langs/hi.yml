@@ -143,7 +143,7 @@ play_7 : "Ngapunten! Bot mung ngidini nomer telpon video winates amarga masalah 
 play_8 : "Ora Ekstensi File Video sing Sah!\n\n**Format sing Didhukung:** {0}"
 play_9 : "Ukuran File Video Kudu Kurang Saka 1 GiB"
 play_10 : "**Fitur Dhaptar Lagu Youtube**\n\nPilih Mode sing arep diputer kabeh Dhaptar Lagu Youtube"
-play_11 : "📎 Judul: **{0}\n\n⏳ Durasi:** {1} Menit"
+play_11 : "📎 judhul: **{0}\n\n⏳ Wektu:** {1} Menit"
 play_12 : "**Spotify Play Mode**\n\nDijaluk Dening:- {0}"
 play_13 : "**Dhaptar Putar Apple**\n\nDijaluk Dening:- {0}"
 play_14 : "**Ora bisa verifikasi URL.**\nBot kepengin weruh yen url iki kalebu salah sawijining platform ing ngisor iki: Youtube, AppleMusic, Spotify, Resso lan Soundcloud.\n\nSampeyan bisa nggunakake /stream kanggo M3u8 utawa Tautan Jarak Jauh ."
@@ -215,19 +215,19 @@ song_11 : "Ngunggah Diwiwiti\n\nKacepetan upload bisa dadi alon. Tulung terus.."
 queue_1 : "Enteni..Njupuk Antrian.."
 queue_2 : "Ora ana trek ing Queue."
 queue_3 : "<u>**Trek Antri:</u>** [Priksa Trek Antri Liyane Saka Kene]({0})"
-queue_4 : "💡 Ditambahake menyang Antrian ing **#{0}\n\n🏷 Judul:** {1}\n**⏱ Durasi:** {2}\n👤** Ditambahake dening:** {3}"
+queue_4 : "💡 Ditambahake menyang Antrian ing **#{0}\n\n🏷 judhul:** {1}\n**⏱ Wektu:** {2}\n👤** Ditambahake dening:** {3}"
 
 # Kabeh Garis Streaming
-stream_1 : "🏷 **Judul:** {0}\n⏱️** Durasi**: {1}\n🎧** Dijaluk Dening:** {2} "
+stream_1 : "🏷 **judhul:** {0}\n⏱️** Wektu**: {1}\n🎧** Dijaluk Dening:** {2} "
 stream_2 : "📡 **Miwiti Streaming liwat URL ** 💡\n\n🎧** Dijaluk Dening:** {0}"
-stream_3 : "📡 **Miwiti Streaming**\n\n**🏷 Judul:** {0}\n⏱️** Durasi**: {1}\n🎧** Dijaluk Dening:** {2} "
-stream_4 : "📡 **Miwiti Streaming**\n\n**🏷 Judul:** [{0}]({1})\n⏱️** Durasi**: {2}\n🎧** Dijaluk Dening:** {3}"
+stream_3 : "📡 **Miwiti Streaming**\n\n**🏷 judhul:** {0}\n⏱️** Wektu**: {1}\n🎧** Dijaluk Dening:** {2} "
+stream_4 : "📡 **Miwiti Streaming**\n\n**🏷 judhul:** [{0}]({1})\n⏱️** Wektu**: {2}\n🎧** Dijaluk Dening:** {3}"
 
 # Tombol Inline
 
 #Tombol Umum
-CLOSE_BUTTON : "🗑 Tutup"
-CLOSEMENU_BUTTON : "🗑 Tutup"
+CLOSE_BUTTON : "🗑 Nutup"
+CLOSEMENU_BUTTON : "🗑 Nutup"
 BACK_BUTTON : "⬅ Mbalik"
 UNBAN_BUTTON : "🗑 Unban Assistant"
 
@@ -282,7 +282,7 @@ ST_B_2 : "🎥 Kualitas Vid"
 ST_B_3 : "🎩 Pangguna Auth"
 ST_B_4 : "📱 Dasbor"
 ST_B_5 : "▶️ Mode Puter"
-ST_B_6 : "🏳️‍🌈 Basa"
+ST_B_6 : "🗣️ Basa"
 ST_B_7 : "🔄 Mode Resik"
 ST_B_8 : "{0} Audio Kualitas Kurang"
 ST_B_9 : "{0} Audio Kualitas Sedheng"
