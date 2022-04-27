@@ -133,7 +133,7 @@ cplay_5 : "Ngan Saluran anu dirojong."
 cplay_6 : "Anjeun kudu jadi **Pamilik** saluran[{0}] pikeun nyambungkeunana jeung grup ieu.\n**Pamilik Saluran:** @{1}\n\nAlternatipna anjeun bisa numbu grup anjeun ka saluran éta teras cobian sambungkeun sareng `/channelplay linked`"
 
 #Ulin
-play_1 : "🔄 Ngolah Laguu....!"
+play_1 : "🔄 Ngolah Paménta... Punten Antosan!"
 play_2 : "**🏷 Modeu Puter Saluran**\n\n🔄 Ngolah Paménta... Punten Antosan!\n**Saluran Numbu:** {0}"
 play_3 : "Gagal Ngolah Paménta!"
 play_4 : "🖇 **Admin Ngan Puter**\nNgan Admin jeung Pamaké Auth anu bisa maénkeun musik dina grup ieu.\n\nGanti modeu via /playmode jeung lamun geus jadi admin, muat ulang admincache via /admincache"
@@ -215,19 +215,19 @@ song_11 : "Ngamuat Dimimitian\n\nLaju unggahna bisa jadi lambat. Mangga tahan.."
 queue_1 : "Punten Antosan..Ngukut Antrian.."
 queue_2 : "Henteu aya lagu di jero Antrian."
 queue_3 : "<u>**Lagu Antrian:</u>** [Parios Antrian Lain Ti dieu]({0})"
-queue_4 : "💡 Ditambahkeun kana Antrian di **#{0}\n\n🏷 Judul:** {1}\n**⏱ Durasi:** {2}\n👤** Ditambahkeun Ku:** {3 }"
+queue_4 : "💡 Ditambahkeun kana Antrian di **»{0}\n\n🏷 Judul:** {1}\n**⏱ Waktos:** {2}\n👤** Ditambahkeun Ku:** {3 }"
 
 # All Streaming Lines
-stream_1 : "🏷 **Judul:** {0}\n⏱️** Durasi**: {1}\n🎧** Dipénta Ku:** {2} "
+stream_1 : "🏷 **Judul:** {0}\n⏱️** Waktos**: {1}\n🎧** Dipénta Ku:** {2} "
 stream_2 : "📡 **Mimiti Streaming via URL ** 💡\n\n🎧** Dipénta Ku:** {0}"
-stream_3 : "📡 **Mimiti Streaming** \n\n**🏷 Judul:** {0}\n⏱️** Durasi**: {1}\n🎧** Dipénta Ku:** {2} "
-stream_4 : "📡 **Mimiti Streaming** \n\n**🏷 Judul:** [{0}]({1})\n⏱️** Durasi**: {2}\n🎧** Dipénta Ku:** {3}"
+stream_3 : "📡 **Mimiti Streaming** \n\n**🏷 Judul:** {0}\n⏱️** Waktos**: {1}\n🎧** Dipénta Ku:** {2} "
+stream_4 : "📡 **Mimiti Streaming** \n\n**🏷 Judul:** [{0}]({1})\n⏱️** Waktos**: {2}\n🎧** Dipénta Ku:** {3}"
 
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON : "🗑 Tutup"
-CLOSEMENU_BUTTON : "🗑 Tutup"
+CLOSE_BUTTON : "🗑 Nutup"
+CLOSEMENU_BUTTON : "🗑 Nutup"
 BACK_BUTTON : "⬅ Balik"
 UNBAN_BUTTON : "🗑 Unban Assistant"
 
@@ -282,7 +282,7 @@ ST_B_2 : "🎥 Kualitas Vid"
 ST_B_3 : "🎩 Pamaké Auth"
 ST_B_4 : "📱 Dasbor"
 ST_B_5 : "▶️ Modeu Puter"
-ST_B_6 : "🏳️‍🌈 Basa"
+ST_B_6 : "🗣️ Basa"
 ST_B_7 : "🔄 Modeu Bersih"
 ST_B_8 : "{0} Audio Kualitas Rendah"
 ST_B_9 : "{0} Audio Kualitas Sedeng"
