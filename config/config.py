@@ -33,7 +33,7 @@ DURATION_LIMIT_MIN = int(
 
 # Duration Limit for downloading Songs in MP3 or MP4 format from bot
 SONG_DOWNLOAD_DURATION = int(
-    getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
+    getenv("SONG_DOWNLOAD_DURATION_LIMIT", "280")
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
@@ -60,7 +60,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/DoniRmdhn/TheSyn",
+    "https://github.com/Donigmg/TheSyn",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
